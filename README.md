@@ -1,1 +1,3 @@
+# Blackjack
+
 El código implementa un juego de BlackJack en JavaScript usando funciones autoejecutables y el modo estricto. Se inicia creando una baraja (deck) con valores del 2 al 10 y cartas especiales (A, J, Q, K) en los cuatro tipos (C, D, H, S), que luego se mezclan aleatoriamente. Se definen funciones para tomar cartas, obtener su valor y manejar el turno de la computadora. Los eventos de los botones permiten al jugador pedir cartas, detenerse o reiniciar el juego. Si el jugador supera 21 puntos, pierde automáticamente; si obtiene 21 o decide detenerse, la computadora juega hasta alcanzar un puntaje mínimo, determinando el ganador mediante alertas.
